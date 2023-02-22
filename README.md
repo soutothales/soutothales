@@ -1,5 +1,6 @@
 ### Hi there, I'm Thales👋
-#### I'm a Full Stack developer that since 2018 is curious about how machines can predict things 😄
+#### I'm a Full Stack developer that since 2018 is curious about how machines can predict things.
+*(Also kinda lazy so I will try to automate all repetitive work😄)*
 
 <!--
 **soutothales/soutothales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
