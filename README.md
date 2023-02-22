@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/soutothales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-<img width="450em" alt="Status Github" src="https://github-readme-stats.vercel.app/api?username=soutothales&show_icons=true&theme=dracula" />
+<div align="left">
+
 <img width="380em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutothales&layout=compact&theme=dracula"/>
 </div>
